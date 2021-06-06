@@ -1,2 +1,1 @@
-# OnlineShoppingProject2
-OnlineShoppingProject2
+# online-shopping
